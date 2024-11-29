@@ -67,7 +67,7 @@ def action2(event):
     window.destroy()
 
 def action3(event):
-    webbrowser.open_new_tab("https://github.com/KIRALAINEisSTUPID/Undertale-pygame")
+    webbrowser.open_new_tab("https://github.com/KIRALAINEisSTUPID/cargo")
 
 # Добавление видео в качестве фона
 video_label = tk.Label(window)
